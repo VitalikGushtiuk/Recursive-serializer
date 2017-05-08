@@ -1,0 +1,14 @@
+			Serialize
+usage:
+ 
+1) make ARGS="input.in" run
+
+operations:
+
+1) Settings x x x
+2) Add NodeX NodeName adjacent node names
+3) Del NodeX name
+4) AddE name1 name2
+5) DelE name1 name2
+6) Serialize startname filename
+7) Deserialize filename
