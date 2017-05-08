@@ -6,9 +6,22 @@ usage:
 operations:
 
 1) Settings x x x
-2) Add NodeX NodeName adjacent node names
+Ex. Settings 1 2 1
+
+2) Add NodeX NodeName adjacent_node_names
+Ex. Add NodA Alex John Boris Igor
+
 3) Del NodeX name
+Ex. Del NodeA John
+
 4) AddE name1 name2
+Ex. AddE John Lynn
+
 5) DelE name1 name2
+Ex. DelE John Boris
+
 6) Serialize startname filename
+Ex. Serialize John fin
+
 7) Deserialize filename
+Ex. Deserialize serializedJohn
